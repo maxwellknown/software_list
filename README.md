@@ -45,12 +45,49 @@ Management: Endnote X20
 
 Translator: DeepL/Baidu translate/Google translate/Saladict 
 
-Read & Comments: Foxit Reader 
+Read & Comments: Foxit PDF Reader + Sumutra PDF
+
+
 
 
 ### 科研计算
+RELAP5
+
+Ansys Fluent
+
+Python+Anaconda+vscode 
+
+Matlab
+
+Mathematica
+
+
 ### 数据处理
+Python
+
+Matlab
+
+Origin
+
+Veusz
+
+
 ### 报告生成
+Texlive
+
+Word
+
+Visio 
+
+Inkscape
+
+Drawio
+
+
+
 ### 表达交流
+Power Point 
+
+Texlive(beamer)
 ### 摸鱼放松
 ## based on Linux
