@@ -90,4 +90,11 @@ Power Point
 
 Texlive(beamer)
 ### 摸鱼放松
+Itunes
+
+网易云音乐
+
+Potplayer
+
+Steam
 ## based on Linux
