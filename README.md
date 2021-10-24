@@ -1,70 +1,70 @@
 # software_list
 ## based on Windows
 ### 文献阅读
-Search: Edge/Firefox/Chrome+Sci-Hub Extension/Google scholar
+- Search: Edge/Firefox/Chrome+Sci-Hub Extension/Google scholar
 
-Management: Endnote X20
+- Management: Endnote X20
 
-Translator: DeepL/Baidu translate/Google translate/Saladict 
+- Translator: DeepL/Baidu translate/Google translate/Saladict 
 
-Read & Comments: Foxit PDF Reader + Sumutra PDF
+- Read & Comments: Foxit PDF Reader + Sumutra PDF
 
 
 ### RSS
 
-iOS: researcher
-irreader
-inoreader
+- researcher(iOS) web
+- irreader
+- inoreader
 
 ### 思维导图
-MindMaster
+- MindMaster
 
 
 ### 科研计算
-RELAP5
+- RELAP5
 
-Ansys Fluent
+- Ansys Fluent
 
-Python+Anaconda+VScode 
+- Python+Anaconda+VScode 
 
-Matlab
+- Matlab
 
-Mathematica
+- Mathematica
 
 
 ### 数据处理
-Python
+- Python
 
-Matlab
+- Matlab
 
-Origin
+- Origin
 
-Veusz
+- Veusz
 
 
 ### 报告生成
-Texlive
+- Texlive
 
-Word
+- Word
 
-Visio 
+- Visio 
 
-Inkscape
+- Inkscape
 
-Drawio
+- Drawio
 
 
 
 ### 表达交流
-Power Point 
+- Power Point 
 
-Texlive(beamer)
+- Texlive(beamer)
 ### 摸鱼放松
-Itunes
+- Itunes
 
-网易云音乐
+- 网易云音乐
 
-Potplayer
+- Potplayer
 
-Steam
+- Steam
 ## based on Linux
